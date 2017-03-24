@@ -1,5 +1,5 @@
 {
-  "name": "code-splitting",
+  "name": "basic-webpack-code-splitting",
   "version": "1.0.0",
   "description": "some experiment for code splitting",
   "main": "index.js",
